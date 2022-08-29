@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1055369430536-b135t0miqhftnuck3tuv8a7vfnj7jha3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1055369430536-b135t0miqhftnuck3tuv8a7vfnj7jha3</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1055369430536-45b20bod0isj3tki83sq45c1enopnbgr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD_1U3kOWf-9n6DCxjJtyIIUp-NFpQdHOo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1055369430536</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.binkstoreap</string>
+	<key>PROJECT_ID</key>
+	<string>binkstoreapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>binkstoreapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1055369430536:ios:e3b0cc5e817f939449b3bd</string>
+	<key>DATABASE_URL</key>
+	<string>https://binkstoreapp-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

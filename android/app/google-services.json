@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1055369430536",
+    "firebase_url": "https://binkstoreapp-default-rtdb.firebaseio.com",
+    "project_id": "binkstoreapp",
+    "storage_bucket": "binkstoreapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055369430536:android:a68c03f245128ce949b3bd",
+        "android_client_info": {
+          "package_name": "com.example.binkstoreap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055369430536-45b20bod0isj3tki83sq45c1enopnbgr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.binkstoreap",
+            "certificate_hash": "b74bedf2f0d669cd5403bb6758d0b9f4e8ea2d5d"
+          }
+        },
+        {
+          "client_id": "1055369430536-u7so5omauseb14d9517i04ud2ob9635a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtfHhy3L3i1mryqUzRWa1MctXeUHeKkvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055369430536-u7so5omauseb14d9517i04ud2ob9635a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1055369430536-b135t0miqhftnuck3tuv8a7vfnj7jha3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.binkstoreap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
